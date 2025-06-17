@@ -4,7 +4,7 @@
 
 Perkenalkan nama saya **Akbar Khaerullah**.<br>
 
-Saya seorang Mahasiswa **Sistem Informasi** yg saat ini sedang menjalani Skripsi di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang Mahasiswa **Sistem Informasi** yg saat ini sedang menjalani Skripsi.<br>
 
 Project Skripsi yg sedang dikerjakan adalah Panduan Karir untuk siswa SMA.<br>
 
