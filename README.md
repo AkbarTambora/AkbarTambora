@@ -4,9 +4,9 @@
 
 Perkenalkan nama saya **Akbar Khaerullah**.<br>
 
-Saya seorang **Android Enthusiast** yg saat ini sedang menjalani Bangkit Academy 2024 di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang Mahasiswa **Sistem Informasi** yg saat ini sedang menjalani Skripsi di [Dicoding](https://www.dicoding.com/).<br>
 
-Saya juga sedang belajar mengenai Jetpack Compose dari Google di [Android Basic with Compose](https://developer.android.com/courses/android-basics-compose/course).<br>
+Project Skripsi yg sedang dikerjakan adalah Panduan Karir untuk siswa SMA.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/akbar-k-a08845125/)ku ya.
 
